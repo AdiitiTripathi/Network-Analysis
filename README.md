@@ -17,9 +17,7 @@ the two brand names. I have fetched all available for each brand and saved those
 have uploaded in the folder here.
 
 Python Script
-
 I have used python for forming an edge list for further analysis.
 
 Gephi
-
 Gephi is an open-source network analysis and visualization software package platform. All Graphs should be created in Gephi.
